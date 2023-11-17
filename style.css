@@ -21,7 +21,7 @@ body{
     padding: 24px 0; /* Preenchimento superior e inferior como 24px e 0 nas laterais */
 
 .cabecalho-imagem{
-    width: 20%; /* Define a largura como 20% do elemento pai */
+    width: 25%; /* Define a largura como 25% do elemento pai */
 }
 
 .cabecalho-lista-item{
