@@ -13,7 +13,7 @@ body{
 }
 
 .cabecalho {
-    background-color: #51025a; /*Define a cor de fundo */
+    background-color: #FFFACD; /*Define a cor de fundo */
     color: white; /* Define a cor do texto com branco */
     display: flex; /* Usa um layout flexível */
     justify-content: space-around; /* Distribui o espaço ao redor dos elementos filhos */
@@ -27,7 +27,7 @@ body{
 .cabecalho-lista-item{
     display: inline-block; /* Exibe os elementos em linha, alinha horizontalmente */
     margin: 0 16px; /* Define margem nas laterais de 16px e nenhum preenchimento */
-    font-size: 24px; /* Define o tamanho da fonte como 24px */
+    font-size: 24px; /* Define tamanho da fonte*/
 
 }
 }
