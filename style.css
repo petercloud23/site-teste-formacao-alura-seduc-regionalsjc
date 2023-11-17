@@ -14,7 +14,7 @@ body{
 
 .cabecalho {
     background-color: #FFFACD; /*Define a cor de fundo */
-    color: white; /* Define a cor do texto com branco */
+    color: #0000FF; /* Define a cor do texto como azul */
     display: flex; /* Usa um layout flexível */
     justify-content: space-around; /* Distribui o espaço ao redor dos elementos filhos */
     align-items: center; /* Alinha os elementos filhos */
