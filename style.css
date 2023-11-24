@@ -35,11 +35,12 @@ body{
     padding: 16px 0;
     }
 
-    .projeto-titulo{
+.projeto-titulo{
         text-align: center;
         padding: 50px 0;
+    }      
     
-        .rodape{
+.rodape{
             background-color: black;
             text-align: center;
             }
