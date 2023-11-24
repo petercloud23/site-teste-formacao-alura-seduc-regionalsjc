@@ -41,12 +41,12 @@ body{
 }      
     
 .rodape{
-    background-color: rgb(7, 7, 7);
+    background-color: #1C1C1C;
     text-align: center;
 }
         
  .rodape-imagem{
-    height: 50px;
-    padding: 12px 0;
+    height: 30px;
+    padding: 10px 0;
 }
 }
