@@ -32,20 +32,20 @@ body{
 }
 .projeto-div{
     text-align: center;
-    padding: 18px 0;
+    padding: 20px 0;
 }
 
 .projeto-titulo{
     text-align: center;
-    padding: 50px 0;
+    padding: 60px 0;
 }      
     
 .rodape{
-    background-color: #1C1C1C;
+    background-color: black;
     text-align: center;
 }
         
 .rodape-imagem{
-    height: 30px;
-    padding: 10px 0;
+    height: 60px;
+    padding: 12px 0;
 }
