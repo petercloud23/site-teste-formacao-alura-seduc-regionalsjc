@@ -31,6 +31,7 @@ body{
 
 }
 .projeto-div{
+    width: 30%; /* Define a largura como 30% do elemento pai */
     text-align: center;
     padding: 20px 0;
 }
