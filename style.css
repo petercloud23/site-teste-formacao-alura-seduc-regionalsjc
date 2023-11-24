@@ -19,6 +19,7 @@ body{
     justify-content: space-around; /* Distribui o espaço ao redor dos elementos filhos */
     align-items: center; /* Alinha os elementos filhos */
     padding: 24px 0; /* Preenchimento superior e inferior como 24px e 0 nas laterais */
+}
 
 .cabecalho-imagem{
     width: 30%; /* Define a largura como 30% do elemento pai */
@@ -49,8 +50,4 @@ body{
     width: 5%; /* Define a largura como 5% do elemento pai */
     height: 30px;
     padding: 12px 0;
-}
-
-.projeto{
-    text-align: center;
 }
